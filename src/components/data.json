@@ -1,0 +1,25 @@
+{
+    "products":[
+        {
+            "product":"Coca Cola",
+            "price":1,
+            "stock":5,
+            "number":0,
+            "img":"images/1.jpg"
+        },
+        {
+            "product":"Fanta",
+            "price":1.5,
+            "stock":5,
+            "number":0,
+            "img":"images/2.png"
+        },
+        {
+            "product":"Ice tea",
+            "price":2,
+            "stock":5,
+            "number":0,
+            "img":"images/3.webp"
+        }
+    ]
+}
